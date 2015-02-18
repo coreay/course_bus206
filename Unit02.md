@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS206: Management Information Systems"
+course_description: "A survey of the various components of business information systems, with particular emphasis on the means by which information is transmitted, the software that displays the information, and the systems that manage the data that businesses use every day."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Information Systems Development** <span id="2"></span> 
 *Businesses have diverse needs.  While software packages for managing
 information exist, most software is not “plug and play” ready for most

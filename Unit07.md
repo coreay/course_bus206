@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS206: Management Information Systems"
+course_description: "A survey of the various components of business information systems, with particular emphasis on the means by which information is transmitted, the software that displays the information, and the systems that manage the data that businesses use every day."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation's BUS206 Final Exam**
     Link: The Saylor Foundation's [BUS206 Final

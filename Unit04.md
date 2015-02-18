@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS206: Management Information Systems"
+course_description: "A survey of the various components of business information systems, with particular emphasis on the means by which information is transmitted, the software that displays the information, and the systems that manage the data that businesses use every day."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Data Management** <span id="4"></span> 
 *Data is a collection of facts.  For example, the population estimates
 for China and the United States are “data.”  Information is the
